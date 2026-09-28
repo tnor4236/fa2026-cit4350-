@@ -1,0 +1,6 @@
+#Favorite Sports Teams
+ 1. New York Football Giants
+ 2. New York Rangers
+ 3. Newcastle United Football Club
+ 4. New York Yankees
+ 5. New York Knicks (Knicks in 5)
